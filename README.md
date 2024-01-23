@@ -1,6 +1,6 @@
 ## Acelere suas vendas do delivery com o aplicativo de delivery [Lupi](https://lupidelivery.com.br) !
-<p>Automatize sua operação e ganhe tempo. Elimine as taxas desnecessárias e fidelize seus clientes!</p>
-Tenha a sua plataforma de delivery.
+<p>Automatize sua operação e ganhe tempo. Elimine as taxas desnecessárias e fidelize seus clientes!
+Tenha a sua plataforma de delivery.</p>
 
 **O que fazemos**:
 - Aumentar as vendas
