@@ -2,7 +2,7 @@
 <p>Automatize sua operação e ganhe tempo. Elimine as taxas desnecessárias e fidelize seus clientes!</p>
 <p>Tenha a sua plataforma de delivery.</p>
 
-**O que fazemos**
+**O que fazemos**:
 - Aumentar as vendas
 - Facilitar para os seus clientes
 - App próprio nas lojas
@@ -10,7 +10,7 @@
 - Automatizar pedidos de WhatsApp
 - Fidelizar e atrair novos clientes
 
-**Algumas funcionalidades**
+**Algumas funcionalidades**:
 - Gestor de Pedidos
 Centralize seus pedidos em um único sistema com nossa plataforma intuitiva e fácil de usar, alertas para pedidos não lidos  e redução significativa de erros na preparação dos pedidos.
 - Atendente Virtual
